@@ -81,7 +81,3 @@ Logo proje klasöründe SVG olarak yüklü
 Eğer herhangi bir sorunla karşılaşırsanız, lütfen eğitmeninize başvurun.
 
 İyi eğlenceler ve kodlamalar! 🍕
-
-git add .
-git commit -m "Trigger GitHub Pages rebuild"
-git push origin main
